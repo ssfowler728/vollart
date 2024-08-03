@@ -3,7 +3,8 @@
   "scripts": {
     "build": "next build",
     "dev": "next dev",
-    "start": "next start"
+    "start": "next start",
+    "ghpages": "gh-pages -t -d out"
   },
   "dependencies": {
     "@heroicons/react": "^2.1.4",
